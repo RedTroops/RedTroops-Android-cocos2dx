@@ -25,7 +25,7 @@ xcuserdata
 Pods/*
 
 #cocos2d-x
-libs/
+#libs/
 bin/
 obj/
 assets/
